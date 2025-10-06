@@ -40,7 +40,7 @@ Mi objetivo es crecer como **Ingeniero en Machine Learning**, creando proyectos 
 
 ---
 
-## Skill Set :muscle:
+## 👉 “Habilidades 💪”
 
 Estas son algunas de las principales tecnologías que utilizo o con las que he trabajado anteriormente
 
