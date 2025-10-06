@@ -23,7 +23,7 @@ Me interesa descubrir patrones, generar insights y desarrollar modelos predictiv
   
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
- 🌟 #Mi misión
+ 🌟 **Objetivo**
 
 Mi objetivo es crecer como **Ingeniero en Machine Learning**, creando proyectos que:  
 - Predigan, clasifiquen y analicen datos del mundo real  
