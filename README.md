@@ -23,14 +23,13 @@ Me interesa descubrir patrones, generar insights y desarrollar modelos predictiv
   
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
- 🌟 **Objetivo**
+ 🌟 **Objetivos**
 
 Mi objetivo es crecer como **Ingeniero en Machine Learning**, creando proyectos que:  
 - Predigan, clasifiquen y analicen datos del mundo real  
 - Me permitan aprender nuevos algoritmos y técnicas  que mejoren mis habilidades.
 <br>
 <br>
----
 
 ## 📂 Proyectos Destacados
 - **Predicción de Precios de Viviendas** – Random Forest y XGBoost  
