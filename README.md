@@ -5,6 +5,7 @@
 [![Talento Digital Chile](https://img.shields.io/badge/Power%20BI-Certified-008272?style=for-the-badge&logo=microsoft-power-bi&logoColor=yellow)](https://www.acreditta.com/credential/99483c7a-8065-4e50-9328-df9a1884c88a)
 
 
+[![Talento Digital Chile](https://img.shields.io/badge/Talento%20Digital-Chile-Certificado-008272?style=for-the-badge&logoColor=white)](TU_ENLACE_DE_CERTIFICACION)
 
 
 ### 🌱 Ingeniero en Machine Learning Junior | Apasionado por Datos | Aprendiz Permanente  
