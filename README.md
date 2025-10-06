@@ -5,7 +5,7 @@
 
 
 
-### 🌱 Aprendiz Permanente  
+### Científico de Datos
 
 👋 Soy un entusiasta del Machine Learning y la Ciencia de Datos, apasionado por transformar datos en conocimiento útil para la toma de decisiones.
 
