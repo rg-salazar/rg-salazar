@@ -13,7 +13,6 @@ Me interesa descubrir patrones, generar insights y desarrollar modelos predictiv
 
 🚀 Actualmente busco seguir creciendo como científico de datos, aplicando mis conocimientos en proyectos con impacto y compartiendo lo que aprendo.
 
----
 
 ## 🚀 Sobre mí
 - 🎓 Ingeniero en Informática, enfocado hoy en el **Análisis de Datos y Machine Learning**  
