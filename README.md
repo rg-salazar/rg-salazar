@@ -75,8 +75,6 @@ Estas son algunas de las principales tecnologías que utilizo o con las que he t
 
 ## ⚡ Badges de motivación
 
-## ⚡ Badges de motivación
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7DF1E?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F61?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
