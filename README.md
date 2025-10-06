@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Rodrigo Salazar
+# 👋 ¡Hola! Mi nombre es Rodrigo Salazar
 
 👋 Soy un entusiasta del Machine Learning y la Ciencia de Datos, apasionado por transformar datos en conocimiento útil para la toma de decisiones.
 
