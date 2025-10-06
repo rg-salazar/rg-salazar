@@ -5,9 +5,13 @@
 
 
 
-### 🌱 Ingeniero en Machine Learning Junior | Apasionado por Datos | Aprendiz Permanente  
+### 🌱 Aprendiz Permanente  
 
-Soy un **entusiasta de Machine Learning y Data Science**, motivado por convertir datos en información valiosa y construir modelos que resuelvan problemas reales. Me encanta experimentar con algoritmos, explorar datasets y aprender nuevas tecnologías constantemente.
+👋 Soy un entusiasta del Machine Learning y la Ciencia de Datos, apasionado por transformar datos en conocimiento útil para la toma de decisiones.
+
+Me interesa descubrir patrones, generar insights y desarrollar modelos predictivos que aporten valor real. Disfruto explorar datasets, experimentar y aprender nuevas herramientas que mejoren mis análisis.
+
+🚀 Actualmente busco seguir creciendo como científico de datos, aplicando mis conocimientos en proyectos con impacto y compartiendo lo que aprendo.
 
 ---
 
