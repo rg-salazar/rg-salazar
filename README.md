@@ -68,6 +68,7 @@ Estas son algunas de las principales tecnologías que utilizo o con las que he t
 <img title="SQL Server" alt="SQL Server" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png">
 <img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Power_BI_Logo.svg">
 <img title="XAMPP" alt="XAMPP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/XAMPP_Logo.svg">
+<img title="Power BI" alt="Power BI" width="40px" src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V">
 
 
 <br>
