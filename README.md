@@ -35,11 +35,13 @@ Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyecto
 <br>
 
 ## 📂 Proyectos Destacados
-- **Predicción de Precios de Viviendas** – Random Forest y XGBoost  
-- **Segmentación de Clientes** – Clustering para identificar segmentos de mercado  
-- **NLP para Reseñas** – Clasificación de texto y análisis de sentimiento  
-- **¡Abierto a nuevos desafíos y proyectos!**  
+| Proyecto Destacado | Descripción | Tecnología |
+| :--- | :--- | :--- |
+| **[rg-salazar](https://github.com/tu-usuario/rg-salazar)** | Mi repositorio personal para ejemplos, snippets y experimentación. | Markdown |
+| **[Prediccion-de-riesgo-cardiovascular](https://github.com/tu-usuario/Prediccion-de-riesgo-cardiovascular)** | Aplicación de LIME y SHAP para justificar modelos de clasificación de riesgo cardiovascular. | 🟠 Jupyter Notebook |
+| **[API-REST-mediante-Flask](https://github.com/tu-usuario/API-REST-mediante-Flask)** | Construcción de una API REST usando Flask, contenida y desplegada con Docker. | 🟠 Jupyter Notebook |
 
+---
 ---
 
 ## 👉 “Habilidades 💪”
