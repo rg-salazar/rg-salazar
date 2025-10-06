@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Rodrigo Salazar
-[![Power BI Certified](https://img.shields.io/badge/Power%20BI-Certified-008272?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)](TU_LINK_DE_VERIFICACION)
+[![Power BI Certified](https://img.shields.io/badge/Power%20BI-Certified-008272?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)](https://learn.microsoft.com/api/credentials/share/es-es/Rodrigo-4233/B563006D3FC65B06?sharingId=DFD33DFDD0C3E4A3)
 
 ### 🌱 Ingeniero en Machine Learning Junior | Apasionado por Datos | Aprendiz Permanente  
 
