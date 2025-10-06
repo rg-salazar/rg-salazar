@@ -21,7 +21,6 @@ Me interesa descubrir patrones, generar insights y desarrollar modelos predictiv
 - 🛠 Actualmente explorando **Python, pandas, scikit-learn, TensorFlow y PyTorch**  
 - 📈 Apasionado por aprender nuevas herramientas que permitan mejorar mis análisis  
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
----
 
 ## 🌟 Mi misión
 Mi objetivo es crecer como **Ingeniero en Machine Learning**, creando proyectos que:  
