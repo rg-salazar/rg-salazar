@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Rodrigo Salazar
 [![Power BI Certified](https://img.shields.io/badge/Power%20BI-Certified-008272?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)](https://learn.microsoft.com/api/credentials/share/es-es/Rodrigo-4233/B563006D3FC65B06?sharingId=DFD33DFDD0C3E4A3)
 
-[![Talento Digital para Chile](https://img.shields.io/badge/Power%20BI-Certified-008272?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)](https://www.acreditta.com/credential/99483c7a-8065-4e50-9328-df9a1884c88a)
+[![Talento Digital para Chile](https://img.shields.io/badge/Talento%20Digital-Chile-Certificado-008272?style=for-the-badge)](https://www.acreditta.com/credential/99483c7a-8065-4e50-9328-df9a1884c88a)
 
 ### 🌱 Ingeniero en Machine Learning Junior | Apasionado por Datos | Aprendiz Permanente  
 
