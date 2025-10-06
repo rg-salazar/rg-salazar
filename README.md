@@ -16,18 +16,17 @@ Me interesa descubrir patrones, generar insights y desarrollar modelos predictiv
 ---
 
 ## 🚀 Sobre mí
-- 🎓 Formado en **Análisis de Datos y Machine Learning**  
-- 💡 Curioso por temas como **IA, NLP, Computer Vision y modelos predictivos**  
+- 🎓 Ingeniero en Informática, enfocado hoy en el **Análisis de Datos y Machine Learning**  
+- 💡 Curioso por temas como NLP, modelos supervisados y modelos no supervisados**  
 - 🛠 Actualmente explorando **Python, pandas, scikit-learn, TensorFlow y PyTorch**  
-- 📈 Me apasiona convertir datos desordenados en **insights accionables**  
+- 📈 Apasionado por aprender nuevas herramientas que permitan mejorar mis análisis  
 
 ---
 
 ## 🌟 Mi misión
 Mi objetivo es crecer como **Ingeniero en Machine Learning**, creando proyectos que:  
 - Predigan, clasifiquen y analicen datos del mundo real  
-- Me permitan aprender nuevos algoritmos y técnicas  
-- Me den la oportunidad de **compartir conocimiento** con la comunidad  
+- Me permitan aprender nuevos algoritmos y técnicas  que mejoren mis habilidades.
 
 ---
 
