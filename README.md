@@ -25,7 +25,8 @@ Me interesa descubrir patrones, generar insights y desarrollar modelos predictiv
 
  🌟 **Objetivos**
 
-- Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyectos que:
+Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyectos que:
+
 - Predigan, clasifiquen y analicen datos del mundo real para generar insights útiles y aplicables.
 - Me permitan aprender nuevos algoritmos, técnicas y metodologías que fortalezcan mis habilidades en ciencia de datos y ML.
 - Integren diferentes fuentes de datos y herramientas, desde Python, pandas y scikit-learn hasta TensorFlow y PyTorch, para construir soluciones robustas.
