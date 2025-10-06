@@ -55,9 +55,10 @@ Estas son algunas de las principales tecnologías que utilizo o con las que he t
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"><img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img title="Oracle" alt="Oracle" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/oracle/oracle.png">
+<img title="Oracle" alt="Oracle" width="40px" src="https://www.stickpng.com/assets/images/5a4e7f1e4e3f7.png">
+
 
 
 
