@@ -57,7 +57,7 @@ Estas son algunas de las principales tecnologías que utilizo o con las que he t
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"><img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img title="Oracle" alt="Oracle" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Oracle_logo.svg">
+<img title="Oracle" alt="Oracle" width="40px" src="https://www.logo.wine/a/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.svg">
 
 
 
@@ -66,8 +66,7 @@ Estas son algunas de las principales tecnologías que utilizo o con las que he t
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"><img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"><img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"><img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 <img title="SQL Server" alt="SQL Server" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png">
-<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Power_BI_Logo.svg">
-<img title="XAMPP" alt="XAMPP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/XAMPP_Logo.svg">
+<img title="XAMPP" alt="XAMPP" width="40px" src="https://www.reormadrid.com/wp-content/uploads/2025/02/logo-xampp.jpg">
 <img title="Power BI" alt="Power BI" width="40px" src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V">
 
 
