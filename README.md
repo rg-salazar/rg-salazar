@@ -30,6 +30,7 @@ Mi objetivo es crecer como **Ingeniero en Machine Learning**, creando proyectos 
 - Me permitan aprender nuevos algoritmos y técnicas  que mejoren mis habilidades.
 <br>
 <br>
+<br>
 
 ## 📂 Proyectos Destacados
 - **Predicción de Precios de Viviendas** – Random Forest y XGBoost  
