@@ -42,11 +42,12 @@ Mi objetivo es crecer como **Ingeniero en Machine Learning**, creando proyectos 
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+Estas son algunas de las principales tecnologías que utilizo o con las que he trabajado anteriormente
 
-**Programming Languages**
+**Lenguajes de Programación**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+
 |--|--|--|
 
 **Libraries and Frameworks**
