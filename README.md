@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Mi Nombre es Rodrigo Salazar
+# 👋 ¡Hola! Soy Rodrigo Salazar
 
 
 
