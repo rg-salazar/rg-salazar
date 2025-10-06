@@ -16,25 +16,20 @@ Me interesa descubrir patrones, generar insights y desarrollar modelos predictiv
 
 ## 🚀 Sobre mí
 
--🎓 Ingeniero en Informática, actualmente enfocado en Análisis de Datos y Machine Learning
--💡 Apasionado por temas como NLP, modelos supervisados y no supervisados, buscando siempre descubrir patrones y generar insights útiles
--🛠 Actualmente explorando herramientas y librerías como Python, pandas, scikit-learn, TensorFlow y PyTorch para desarrollar modelos efectivos
--📈 Motivado por aprender nuevas tecnologías y aplicar métodos innovadores que optimicen análisis y procesos de datos
+🎓 Ingeniero en Informática, actualmente enfocado en Análisis de Datos y Machine Learning
+💡 Apasionado por temas como NLP, modelos supervisados y no supervisados, buscando siempre descubrir patrones y generar insights útiles
+🛠 Actualmente explorando herramientas y librerías como Python, pandas, scikit-learn, TensorFlow y PyTorch para desarrollar modelos efectivos
+📈 Motivado por aprender nuevas tecnologías y aplicar métodos innovadores que optimicen análisis y procesos de datos
   
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
  🌟 **Objetivos**
 
 Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyectos que:
-
 Predigan, clasifiquen y analicen datos del mundo real para generar insights útiles y aplicables.
-
 Me permitan aprender nuevos algoritmos, técnicas y metodologías que fortalezcan mis habilidades en ciencia de datos y ML.
-
 Integren diferentes fuentes de datos y herramientas, desde Python, pandas y scikit-learn hasta TensorFlow y PyTorch, para construir soluciones robustas.
-
 Aumenten mi experiencia en modelado predictivo, NLP y análisis avanzado, preparándome para enfrentar retos complejos en entornos reales.
-
 Contribuyan a la optimización de procesos y toma de decisiones basadas en datos, agregando valor tanto en proyectos personales como profesionales.
 
 <br>
