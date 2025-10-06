@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Mi Nombre es Rodrigo Salazar
 [![Power BI Certified](https://img.shields.io/badge/Certificaci%C3%B3n%20-Chile?logoColor=black&label=POWER%20BI&labelColor=yellow&color=gray
 )](https://learn.microsoft.com/api/credentials/share/es-es/Rodrigo-4233/B563006D3FC65B06?sharingId=DFD33DFDD0C3E4A3)
-[![Talento Digital Chile](https://img.shields.io/badge/Certificaci%C3%B3n%20%20-Chile?logoColor=Certificaci%C3%B3n&logoSize=30&label=Talento%20Digital%20Chile
-)](https://www.acreditta.com/credential/99483c7a-8065-4e50-9328-df9a1884c88a)
+[![Talento Digital Chile](https://img.shields.io/badge/Certificaci%C3%B3n%20-Chile?logoColor=green&label=TALENTO%20DIGITAL%20PARA%20CHILE&labelColor=pink&color=gray)](https://www.acreditta.com/credential/99483c7a-8065-4e50-9328-df9a1884c88a)
 
 
 
