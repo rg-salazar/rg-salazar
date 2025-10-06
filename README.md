@@ -1,9 +1,5 @@
 # 👋 ¡Hola! Soy Rodrigo Salazar
 
-
-
-### Científico de Datos
-
 👋 Soy un entusiasta del Machine Learning y la Ciencia de Datos, apasionado por transformar datos en conocimiento útil para la toma de decisiones.
 
 Me interesa descubrir patrones, generar insights y desarrollar modelos predictivos que aporten valor real. Disfruto explorar datasets, experimentar y aprender nuevas herramientas que mejoren mis análisis.
