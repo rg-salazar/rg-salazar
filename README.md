@@ -75,8 +75,19 @@ Estas son algunas de las principales tecnologías que utilizo o con las que he t
 
 ## ⚡ Badges de motivación
 
+## ⚡ Badges de motivación
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7DF1E?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F61?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-4B0082?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-ED1C24?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
