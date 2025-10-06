@@ -72,7 +72,6 @@ Estas son algunas de las principales tecnologías que utilizo o con las que he t
 
 <br>
 
----
 
 ## ⚡ Badges de motivación
 
