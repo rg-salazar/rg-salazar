@@ -39,7 +39,7 @@ Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyecto
 | :--- | :--- | :--- |
 | **[rg-salazar](https://github.com/tu-usuario/rg-salazar)** | Mi repositorio personal para ejemplos, snippets y experimentación. | Markdown |
 | **[Prediccion-de-riesgo-cardiovascular](https://github.com/rg-salazar/Prediccion-de-riesgo-cardiovascular)** | Aplicación de LIME y SHAP para justificar modelos de clasificación de riesgo cardiovascular. | 🟠 Jupyter Notebook |
-| **[API-REST-mediante-Flask](https://github.com/tu-usuario/API-REST-mediante-Flask)** | Construcción de una API REST usando Flask, contenida y desplegada con Docker. | 🟠 Jupyter Notebook |
+| **[API-REST-mediante-Flask](https://github.com/rg-salazar/API-REST-mediante-Flask)** | Construcción de una API REST usando Flask, contenida y desplegada con Docker. | 🟠 Jupyter Notebook |
 
 ---
 ---
