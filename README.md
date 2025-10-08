@@ -34,11 +34,7 @@ Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyecto
 | Proyecto Destacado | Descripción | Tecnología |
 | :--- | :--- | :--- |
 | **[Clasificación de Notas Clínicas para Detección Temprana de Afecciones.](https://github.com/rg-salazar/Clasificacion-de-notas-clinicas)** | Este proyecto desarrolla un sistema de Procesamiento de Lenguaje Natural (NLP) capaz de clasificar notas clínicas, síntomas y diagnósticos según su gravedad clínica: leve, moderado o severo. | Markdown |
-| **[Prediccion de riesgo cardiovascular](https://github.com/rg-salazar/Prediccion-de-riesgo-cardiovascular)** | Aplicar herramientas de explicabilidad de modelos, específicamente LIME y SHAP, para analizar y justificar el comportamiento de un modelo de clasificación. | 🟠 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoWidth=12&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoWidth=12&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square&logo=tree&logoWidth=12&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-29B6F6?style=flat-square&logoWidth=12)
-![LIME](https://img.shields.io/badge/LIME-76B041?style=flat-square&logoWidth=12)
+| **[Prediccion de riesgo cardiovascular](https://github.com/rg-salazar/Prediccion-de-riesgo-cardiovascular)** | Aplicar herramientas de explicabilidad de modelos, específicamente LIME y SHAP, para analizar y justificar el comportamiento de un modelo de clasificación. | 🟠 
  |
 | **[API REST mediante Flask](https://github.com/rg-salazar/API-REST-mediante-Flask)** | Construcción de una API REST usando Flask, contenida y desplegada con Docker. | 🟠 Jupyter Notebook |
 
