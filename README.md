@@ -35,7 +35,7 @@ Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyecto
 | :--- | :--- | 
 | **[Clasificación de Notas Clínicas para Detección Temprana de Afecciones.](https://github.com/rg-salazar/Clasificacion-de-notas-clinicas)** | Proyecto de desarrolló de un sistema de Procesamiento de Lenguaje Natural (NLP) capaz de clasificar notas clínicas, síntomas y diagnósticos según su gravedad clínica: leve, moderado o severo. | Markdown |
 | **[Prediccion de riesgo cardiovascular](https://github.com/rg-salazar/Prediccion-de-riesgo-cardiovascular)** | Aplicar herramientas de explicabilidad de modelos, específicamente LIME y SHAP, para analizar y justificar el comportamiento de un modelo de clasificación. | 
-| **[API REST mediante Flask](https://github.com/rg-salazar/API-REST-mediante-Flask)** | Construcción de una API REST usando Flask, contenida y desplegada con Docker. | 
+| **[API REST mediante Flask](https://github.com/rg-salazar/API-REST-mediante-Flask)** | Desarrollo de una API REST utilizando Flask, diseñada para gestionar y consultar información de clínicas en función del diagnóstico de HeartDisease. La API está contenida en Docker para facilitar su despliegue, escalabilidad y portabilidad en distintos entornos. | 
 
 ---
 ---
