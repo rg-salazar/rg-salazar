@@ -33,7 +33,7 @@ Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyecto
 ## 📂 Proyectos Destacados
 | Proyecto Destacado | Descripción | Tecnología |
 | :--- | :--- | :--- |
-| **[rg-salazar](https://github.com/tu-usuario/rg-salazar)** | Mi repositorio personal para ejemplos, snippets y experimentación. | Markdown |
+| **[Clasificación de Notas Clínicas para Detección Temprana de Afecciones.](https://github.com/rg-salazar/Clasificacion-de-notas-clinicas)** | Clasificación de Notas Clínicas para Detección Temprana de Afecciones. | Markdown |
 | **[Prediccion-de-riesgo-cardiovascular](https://github.com/rg-salazar/Prediccion-de-riesgo-cardiovascular)** | Aplicación de LIME y SHAP para justificar modelos de clasificación de riesgo cardiovascular. | 🟠 Jupyter Notebook |
 | **[API-REST-mediante-Flask](https://github.com/rg-salazar/API-REST-mediante-Flask)** | Construcción de una API REST usando Flask, contenida y desplegada con Docker. | 🟠 Jupyter Notebook |
 
