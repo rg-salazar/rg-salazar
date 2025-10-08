@@ -38,7 +38,7 @@ Mi objetivo es crecer como Ingeniero en Machine Learning, desarrollando proyecto
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)  
 ![SHAP](https://img.shields.io/badge/SHAP-29B6F6?style=for-the-badge)  
-![LIME](https://img.shields.io/badge/LIME-76B041?style=for-the-badge) |
+![LIME](https://img.shields.io/badge/LIME-76B041?style=for-the-badge) 
 | **[API REST mediante Flask](https://github.com/rg-salazar/API-REST-mediante-Flask)** | Construcción de una API REST usando Flask, contenida y desplegada con Docker. | 🟠 Jupyter Notebook |
 
 ---
